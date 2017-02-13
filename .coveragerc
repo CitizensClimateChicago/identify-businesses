@@ -1,0 +1,16 @@
+[paths]
+source =
+   src/ccl_chi_outreach
+   */site-packages/ccl_chi_outreach
+
+[run]
+branch = true
+source =
+    ccl_chi_outreach
+    tests
+parallel = true
+
+[report]
+show_missing = true
+precision = 2
+omit = *migrations*
