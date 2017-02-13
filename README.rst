@@ -1,3 +1,6 @@
+**NOTE** I started this from the fine Cookiecutter template, [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary),
+so the README and project has extra stuff in it that isn't working yet. Will trim down later and remove this note.
+
 ========
 Overview
 ========
