@@ -1,3 +1,8 @@
+ccl_chi_outreach.yaml
+config.yaml
+
+#=======================================
+
 *.py[cod]
 
 # C extensions

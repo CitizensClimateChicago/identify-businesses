@@ -66,6 +66,9 @@ setup(
     ],
     install_requires=[
         'click',
+        'python-google-places>=1.4.0,<2.0',
+        'tablib>=0.11.3,<1.0.0',
+        'PyYAML==3.12'
     ],
     extras_require={
         # eg:
